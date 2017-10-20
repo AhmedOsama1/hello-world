@@ -5,5 +5,5 @@
 #define FALSE 	0
 
 #define PASS_PHRASE		FALSE
-
+#define ONLY_TO_TEST_PASS_PHRASE
 #endif
