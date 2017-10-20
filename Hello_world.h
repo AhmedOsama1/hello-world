@@ -9,4 +9,6 @@
 
 #define	CHECKING_NOW	FALSE
 #define	HopeLess
+
+#define LAST_ATTEMPT	
 #endif
