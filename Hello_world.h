@@ -8,4 +8,5 @@
 #define ONLY_TO_TEST_PASS_PHRASE
 
 #define	CHECKING_NOW	FALSE
+#define	HopeLess
 #endif
