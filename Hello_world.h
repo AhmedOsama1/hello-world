@@ -7,5 +7,5 @@
 #define PASS_PHRASE		FALSE
 #define ONLY_TO_TEST_PASS_PHRASE
 
-#define	CHECKING_NOW	
+#define	CHECKING_NOW	FALSE
 #endif
