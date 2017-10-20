@@ -10,5 +10,5 @@
 #define	CHECKING_NOW	FALSE
 #define	HopeLess
 
-#define LAST_ATTEMPT	
+#define LAST_ATTEMPT		FALSE
 #endif
